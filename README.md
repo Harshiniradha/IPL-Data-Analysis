@@ -34,30 +34,29 @@ V Kohli leads by a significant margin with ~8,000 runs, followed by S Dhawan, RG
 ### Toss Winner: Batting First vs Chasing
 ![Toss Analysis](toss_analysis.png)
 
-Teams that win the toss and choose to **chase overwhelmingly win more matches** — roughly 375 wins vs 175 for batting first. This strongly suggests captains should field first after winning the toss.
+Teams that win the toss and choose to chase overwhelmingly win more matches — roughly 375 wins vs 175 for batting first.
 
 ---
 
 ### Top 10 Highest Scoring Venues
 ![Venues](venues.png)
 
-Eden Gardens and Wankhede Stadium are the two highest scoring venues, both crossing 22,000 total runs. M Chinnaswamy Stadium in Bengaluru comes in third — known for its short boundaries and batting-friendly conditions.
+Eden Gardens and Wankhede Stadium are the two highest scoring venues, both crossing 22,000 total runs.
 
 ---
 
 ### Total Runs Per IPL Season
 ![Season Trends](season_trends.png)
 
-Run scoring dipped in the 2014–2021 period before a sharp spike from 2022 onwards — likely driven by more matches per season and increasingly aggressive batting strategies.
+Run scoring dipped in the 2014–2021 period before a sharp spike from 2022 onwards.
 
 ---
 
 ## 🗂️ Project Structure
 IPL-Data-Analysis/
+
 │
 ├── IPL Data Analysis.ipynb   # Main analysis notebook
-├── matches.csv               # Match-level data
-├── deliveries.csv            # Ball-by-ball data
 ├── toss_analysis.png         # Chart: batting first vs chasing
 ├── top_batsmen.png           # Chart: top 10 run scorers
 ├── venues.png                # Chart: highest scoring venues
@@ -96,5 +95,5 @@ jupyter notebook "IPL Data Analysis.ipynb"
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-r-b9558a336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshini-r-b9558a336)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshiniradha)
